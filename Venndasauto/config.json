@@ -1,0 +1,14 @@
+{
+    "token": "token bot",
+    "access_token": "token mp",
+    "status": "SeuStatus",
+    "prefix": "!",
+    "owner": "Seu id",
+    "logs": "logs compras",
+    "logs_staff": "",
+    "category": "categoria ",
+    "title": "Seu Titulo",
+    "color": "#000000",
+    "thumbnail": "",
+    "role": "cargo client"
+}
